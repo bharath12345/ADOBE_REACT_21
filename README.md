@@ -2,9 +2,9 @@
 
 Banuprakash C
 
-Full Stack Architect, Corporate Trainer,
-
-Co-founder Lucida Technologies Pvt Ltd.,
+Full Stack Architect, 
+Corporate Trainer,
+CO-FOUNDER: Lucida Technologies Pvt Ltd.,
 
 Email: 
 banu@lucidatechnologies.com; 
@@ -22,3 +22,4 @@ Softwares Required:
 	1.3) Lighthouse
 2) Visual Studio Code
 3) NodeJS Latest LTS
+-----------------------------------
